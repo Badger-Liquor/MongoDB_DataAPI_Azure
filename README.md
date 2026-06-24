@@ -1,4 +1,4 @@
-This repository details how to seamlessly set up an Azure function as a good alternative to the MongoDB Atlas Data APIs. You can deploy the Azure Function App using few clicks and use the Azure function URL and Function App key instead of the base url and api key of Atlas Data APIs. It details the Azure function based replacement solution and alleviates the burden off developers to build the function code and manually deploy it.
+This repos details how to seamlessly set up an Azure function as a good alternative to the MongoDB Atlas Data APIs. You can deploy the Azure Function App using few clicks and use the Azure function URL and Function App key instead of the base url and api key of Atlas Data APIs. It details the Azure function based replacement solution and alleviates the burden off developers to build the function code and manually deploy it.
 
 ## Architecture
  ![](https://github.com/mongodb-partners/MongoDB_DataAPI_Azure/blob/main/images/DataAPIReplace.drawiov1.png)
